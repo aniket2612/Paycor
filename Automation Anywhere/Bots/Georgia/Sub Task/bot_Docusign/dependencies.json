@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Georgia\\Sub Task\\Docusign","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Georgia\\Sub Task\\Docusign","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\GA_DocuSign_DFA"]}

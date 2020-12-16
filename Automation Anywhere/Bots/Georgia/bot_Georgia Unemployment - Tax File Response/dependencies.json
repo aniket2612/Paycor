@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Georgia\\Georgia Unemployment - Tax File Response","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Georgia\\Sub Task\\Georgia_Docusign_Searching_for_completed_res"]}
+{"path":"Automation Anywhere\\Bots\\Georgia\\Georgia Unemployment - Tax File Response","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Georgia\\Sub Task\\Georgia_Unemployment_Getting_POA_Response"]}

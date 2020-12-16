@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Georgia\\Sub Task\\Paycor Perform","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Georgia\\Sub Task\\Paycor Perform","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Paycor_Perform_DFA"]}
